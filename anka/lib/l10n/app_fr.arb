@@ -1,0 +1,26 @@
+{
+    "email": "Adresse e-mail",
+    "loadingText": "Chargement...",
+    "failureText": "Erreur. Merci de vérifier votre connexion internet.",
+    "tryAgainButtonText": "Réessayer",
+
+     "perMonthText": "mois",
+
+    "emailFieldLabel": "Adresse email",
+    "emailFieldHint": "Adresse email",
+    "emailValidationMsg": "Entrez une adresse email valide",
+
+    "chosePlanButtonText": "Choisir",
+
+    "cardHolderValidationMsg": "Entrez le nom du porteur de la carte",
+    "cardNumberValidationMsg": "Entrez un numéro de carte valide",
+    "cardExpiryDateValidationMsg": "Entrez la date d'expiration de la carte",
+    "cardCVCValidationMsg": "Entrez le code de Vérification de la carte",
+
+    "submitButtonText": "Valider",
+
+    "congratulations": "Félicitations",
+     "subscriptionType": "Abonnement",
+     "subscriptionStatus": "Etat de l'abonnement",
+     "subscriptionDate": "Date d'abonnement"
+}

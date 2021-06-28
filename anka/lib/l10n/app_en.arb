@@ -1,0 +1,25 @@
+{
+     "loadingText": "Loading...",
+     "failureText": "Error. Please check your internet connection.",
+     "tryAgainButtonText": "Try again",
+
+     "perMonthText": "month",
+
+     "emailFieldLabel": "Email address",
+     "emailFieldHint": "Email address",
+     "emailValidationMsg": "Please enter a valid email address",
+
+     "chosePlanButtonText": "Select",
+
+     "cardHolderValidationMsg": "Please enter the Card holder's name",
+     "cardNumberValidationMsg": "Please enter a valid Card Number",
+     "cardExpiryDateValidationMsg": "Please enter a valid Card Expiry Date",
+     "cardCVCValidationMsg": "Please enter a valid Card CVC",
+
+     "submitButtonText": "Submit",
+
+     "congratulations": "Congratulations",
+     "subscriptionType": "Subscription type",
+     "subscriptionStatus": "subscription status",
+     "subscriptionDate": "created at"
+}

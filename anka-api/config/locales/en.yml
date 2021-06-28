@@ -1,0 +1,16 @@
+en:
+  plans:
+    free_plan_title: Free forumla
+    free_plan_description: Unlimited product addition Online Store Visibility Push marketing
+
+    classic_plan_title: Classic forumla
+    classic_plan_description: Order management Shipments with DHL Direct payment on social networks
+  user:
+    validations:
+      email:
+        required: Email address is required
+        already_taken: This email address is not available
+
+  subscription:
+    validations:
+      created: Subscription created
